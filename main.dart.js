@@ -92961,7 +92961,7 @@ A.aon.prototype={
 $0(){A.ks(new A.aoj(this.b),this.a,!0,t.z)},
 $S:0}
 A.aoj.prototype={
-$1(a){var s,r,q,p=null,o=A.FZ(1),n=A.S(B.c.a8(178.5),255,255,255),m=this.a,l=A.jG(p,B.dy,B.am,new A.f1(A.j($.mC[m].i(0,"Image1")),1,p),p,0.2,1),k=A.k(p,60,p),j=t.u6,i=A.lI(A.a([A.FL(A.j($.mC[m].i(0,"Name")),A.u(p,p,B.f,p,p,p,p,p,p,p,p,30,p,p,A.KU().$1$textStyle(A.u(p,p,B.f,p,p,p,p,p,p,p,p,25,p,p,B.n,p,p,!0,p,0,p,p,p,p,p,p)).w,p,p,!0,p,p,p,p,p,p,p,p))],j),!1,p),h=A.k(p,20,p),g=A.lI(A.a([A.FL("\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u062a\u0647",A.u(p,p,B.f,p,p,p,p,p,p,p,p,30,p,p,A.KU().$1$textStyle(A.u(p,p,B.f,p,p,p,p,p,p,p,p,20,p,p,B.n,p,p,!0,p,0,p,p,p,p,p,p)).w,p,p,!0,p,p,p,p,p,p,p,p))],j),!1,p),f=A.k(p,10,p)
+$1(a){var s,r,q,p=null,o=A.FZ(1),n=A.S(B.c.a8(178.5),255,255,255),m=this.a,l=A.jG(p,B.dy,B.am,new A.f1(A.j($.mC[m].i(0,"Image1")),1,p),p,0.2,1),k=A.k(p,60,p),j=t.u6,i=A.lI(A.a([A.FL(A.j($.mC[m].i(0,"Name")),A.u(p,p,B.f,p,p,p,p,p,p,p,p,18,p,p,A.KU().$1$textStyle(A.u(p,p,B.f,p,p,p,p,p,p,p,p,25,p,p,B.n,p,p,!0,p,0,p,p,p,p,p,p)).w,p,p,!0,p,p,p,p,p,p,p,p))],j),!1,p),h=A.k(p,30,p),g=A.lI(A.a([A.FL("\u0627\u0633\u062a\u062e\u062f\u0627\u0645\u062a\u0647",A.u(p,p,B.f,p,p,p,p,p,p,p,p,30,p,p,A.KU().$1$textStyle(A.u(p,p,B.f,p,p,p,p,p,p,p,p,20,p,p,B.n,p,p,!0,p,0,p,p,p,p,p,p)).w,p,p,!0,p,p,p,p,p,p,p,p))],j),!1,p),f=A.k(p,10,p)
 j=A.lI(A.a([A.FL(A.j($.mC[m].i(0,"Desc"))+" ",A.u(p,p,B.f,p,p,p,p,p,p,p,p,12,p,p,A.KU().$1$textStyle(A.u(p,p,B.h,p,p,p,p,p,p,p,p,20,p,p,B.n,p,p,!0,p,0,p,p,p,p,p,p)).w,p,p,!0,p,p,p,p,p,p,p,p))],j),!1,p)
 m=A.k(p,15,p)
 s=A.bu(8)
